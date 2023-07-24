@@ -27,7 +27,7 @@ if (!isset($_SESSION['username'])) {
                         <span class="icon">
                             <img src="images/logos.png" alt="" width="30px" height="30px" />
                         </span>
-                        <span class="title">CIVICALL</span>
+                        <span class="title">CIVICALLL APP</span>
                     </a>
                 </li>
 
